@@ -1,1 +1,3 @@
-Js.log("Hello, BuckleScript and Reason!");
+{
+  Css.(backgroundColor(hex("000000")));
+};
